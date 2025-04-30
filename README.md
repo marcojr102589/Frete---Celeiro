@@ -10,4 +10,4 @@ Este é um aplicativo web em Streamlit para calcular o custo de frete por km e t
 
 ## Para funcionar
 
-No Streamlit Cloud, adicione o segredo:
+No Streamlit Cloud, adicione o segredo: AIzaSyCWEjIfsBkuk1Kh0qqLyeIs_qAJ7GB3KiE
